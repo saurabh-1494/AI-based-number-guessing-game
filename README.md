@@ -43,8 +43,6 @@ The AI utilizes:
 - **Binary Search**: If the range is known, AI uses binary search to guess efficiently.
 - **Machine Learning (Optional)**: Advanced implementation can use reinforcement learning techniques to predict numbers based on user behavior.
 
-## License
-This project is licensed under the **MIT License**.
 
 
 
